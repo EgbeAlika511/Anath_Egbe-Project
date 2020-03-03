@@ -8,22 +8,38 @@
 </head>
 <body>
     <section>
+        <h1>Survey Form</h1>
         <div class="container">
             <form id="form-div">
-                Name: <input type="text" name="name" id="name" placeholder="Please enter your name"> <br>
-                Age: <input type="number" name="age" id="age"> <br>
-                Email: <input type="email" name="email" id="email" placeholder="Please enter your email"> <br>
-                How did you discover Microverse?:  <br>
+                <p>Name:</p> <input type="text" name="name" id="name" placeholder="Please enter your name"> <br>
+                <p>Age:</p> <input type="number" name="age" id="age"> <br>
+                <p>Email:</p> <input type="email" name="email" id="email" placeholder="Please enter your email"> <br>
+                <p>How did you discover Microverse?:</p>  <br>
                 <select id="dropdown" name="discover" required>
                     <option value="facebook">Facebook</option>
                     <option value="twitter">Twitter</option>
                     <option value="linkedIn">LinkedIn</option>
                     <option value="recommendation">Recommendation</option>
                 </select> <br>
-                Did you have any programming knowledge prior to joining Microverse?:<br>
-                <input type="radio" name="knowledge" value="yes"> Yes </input>
-                <input type="radio" name="knowledge" value="no"> No </input>
-                <input type="radio" name="knowledge" value="a-little"> A little </input>
+                <p>Did you have any programming knowledge prior to joining Microverse?:</p><br>
+                <input class="option" type="radio" name="knowledge" value="yes"> Yes </input><br>
+                <input class="option" type="radio" name="knowledge" value="no"> No </input><br>
+                <input class="option" type="radio" name="knowledge" value="a-little"> A little </input><br>
+                <p>What motivated you to join Microverse?:</p> 
+                <textarea name="motivation" id="motivation"></textarea><br>
+                <p>How did you prepare for the course?: </p><br>
+                <select id="dropdown2" name="prepare" required>
+                    <option value="microverse-pre-course">Microverse Pre Course</option>
+                    <option value="online-courses">Online Courses</option>
+                    <option value="books">Books</option>
+                    <option value="prior-knowledge">Prior Knowledge</option>
+                </select> <br>
+                <p>What do you like most about Microverse?: </p><br>
+                <textarea name="like" id="like"></textarea><br>
+                <p>Comment</p><br>
+                <textarea name="comment" id="comment"></textarea>
+                <br /><br />
+                <button>Submit</button>
 
 
             </form>

@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+    /* align-content: center; */
+    background: linear-gradient(to right, rgb(147, 21, 221), rgb(15, 179, 240));
+}
+
+.container {
+    margin-left: 42%;
+    margin-top: 5%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-decoration-line: underline;
+    color: #fff;
+}
+
+p {
+    font-weight: 600;
+    color: #fff;
+}
+
+.option {
+    color: #fff;
+}
+
+button {
+    background: linear-gradient(to right, rgb(147, 21, 221), rgb(15, 179, 240));
+    font-size: 20px;
+    margin-bottom: 5%;
+    border-radius: 15%;
+}
