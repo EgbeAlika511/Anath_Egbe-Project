@@ -1,0 +1,22 @@
+2020/06/23-19:51:37.614 1a74 Reusing MANIFEST C:\Users\anath\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/06/23-19:51:37.615 1a74 Recovering log #12
+2020/06/23-19:51:37.615 1a74 Reusing old log C:\Users\anath\AppData\Local\Microsoft\Edge\User Data\Default\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/000012.log 
+2020/06/23-19:52:42.369 2c38 Level-0 table #16: started
+2020/06/23-19:52:42.555 2c38 Level-0 table #16: 5355652 bytes OK
+2020/06/23-19:52:42.608 2c38 Delete type=0 #12
+2020/06/23-19:52:42.610 2c38 Compacting 4@0 + 1@1 files
+2020/06/23-19:52:43.010 2c38 Generated table #17@0: 1 keys, 5355569 bytes
+2020/06/23-19:52:43.073 2c38 Generated table #18@0: 3 keys, 198 bytes
+2020/06/23-19:52:43.074 2c38 Compacted 4@0 + 1@1 files => 5355767 bytes
+2020/06/23-19:52:43.106 2c38 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/06/23-19:52:43.106 2c38 Delete type=2 #7
+2020/06/23-19:52:43.107 2c38 Delete type=2 #9
+2020/06/23-19:52:43.107 2c38 Delete type=2 #11
+2020/06/23-19:52:43.107 2c38 Delete type=2 #13
+2020/06/23-19:52:43.107 2c38 Delete type=2 #16
+2020/06/23-19:52:43.272 2c38 Level-0 table #20: started
+2020/06/23-19:52:43.456 2c38 Level-0 table #20: 5355569 bytes OK
+2020/06/23-19:52:43.483 2c38 Delete type=0 #15
+2020/06/23-20:04:11.507 2c38 Level-0 table #22: started
+2020/06/23-20:04:11.678 2c38 Level-0 table #22: 5355759 bytes OK
+2020/06/23-20:04:11.705 2c38 Delete type=0 #19
