@@ -20,3 +20,20 @@
 2020/06/23-20:04:11.507 2c38 Level-0 table #22: started
 2020/06/23-20:04:11.678 2c38 Level-0 table #22: 5355759 bytes OK
 2020/06/23-20:04:11.705 2c38 Delete type=0 #19
+2020/06/23-20:52:41.042 2c38 Level-0 table #24: started
+2020/06/23-20:52:41.195 2c38 Level-0 table #24: 5355656 bytes OK
+2020/06/23-20:52:41.221 2c38 Delete type=0 #21
+2020/06/23-21:08:39.088 2c38 Level-0 table #26: started
+2020/06/23-21:08:39.382 2c38 Level-0 table #26: 5355570 bytes OK
+2020/06/23-21:08:39.413 2c38 Delete type=0 #23
+2020/06/23-21:08:39.418 2c38 Compacting 4@0 + 2@1 files
+2020/06/23-21:08:39.937 2c38 Generated table #27@0: 1 keys, 5355570 bytes
+2020/06/23-21:08:39.998 2c38 Generated table #28@0: 4 keys, 344 bytes
+2020/06/23-21:08:39.998 2c38 Compacted 4@0 + 2@1 files => 5355914 bytes
+2020/06/23-21:08:40.022 2c38 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/06/23-21:08:40.023 2c38 Delete type=2 #17
+2020/06/23-21:08:40.023 2c38 Delete type=2 #18
+2020/06/23-21:08:40.023 2c38 Delete type=2 #20
+2020/06/23-21:08:40.023 2c38 Delete type=2 #22
+2020/06/23-21:08:40.023 2c38 Delete type=2 #24
+2020/06/23-21:08:40.023 2c38 Delete type=2 #26
